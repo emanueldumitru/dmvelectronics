@@ -54,6 +54,7 @@ distlib==0.3.3
 distributed==2.30.1
 Django==2.2.13
 django-allauth==0.47.0
+django-countries==7.2.1
 django-crispy-forms==1.13.0
 docutils==0.16
 entrypoints==0.3
